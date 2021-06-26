@@ -13,6 +13,7 @@ import{
 import TaskForm from './components/TaskForm'
 import Controller from './components/Controller'
 import TaskList from './components/TaskList'
+import demo from './trainning/demo'
 
 
 
